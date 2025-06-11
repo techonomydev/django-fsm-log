@@ -14,9 +14,11 @@ by enabling a cached backend. See [Advanced Usage](#advanced-usage)
 
 ## Changelog
 
-## 4.0.4 (2025-03-14)
+## 4.0.5 (2025-06-11)
 
 - Switch to uv
+
+## 4.0.4 ( :x: )
 
 ## 4.0.3 ( :x: )
 
